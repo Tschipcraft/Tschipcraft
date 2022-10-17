@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I’m Tschipcraft</h2>
 
 <p align="center">
-A minecraft nerd who is sometimes posting his shit online ✨
+A minecraft nerd who sometimes posts his shit online ✨
 </p>
 
 <br/>
