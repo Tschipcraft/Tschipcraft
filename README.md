@@ -6,10 +6,10 @@ A minecraft nerd who sometimes posts his shit online ✨
 
 <br/>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Tschipcraft&show_icons=true&hide=contribs,prs&theme=midnight-purple" alt="stats"/>  
+  <img align="center" height=150px src="https://github-readme-stats.vercel.app/api/?username=Tschipcraft&show_icons=true&hide=contribs,prs&theme=midnight-purple" alt="stats"/>
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tschipcraft&theme=midnight-purple" alt="stats"/>  
+    <img align="center" height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tschipcraft&theme=midnight-purple" alt="stats"/>  
 </p>
 
 
