@@ -9,11 +9,35 @@ Here you'll find all the code and resources for my Minecraft data packs, resourc
 
 <br/>
 <p align="center">
-  <img align="center" height=150px src="https://github-readme-stats.vercel.app/api/?username=Tschipcraft&show_icons=true&hide=contribs,prs&theme=midnight-purple" alt="stats"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/?username=Tschipcraft&show_icons=true&hide=contribs,prs&theme=midnight-purple"
+      media="(prefers-color-scheme: dark)"
+      height=170px
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/?username=Tschipcraft&show_icons=true&hide=contribs&theme=buefy"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      height=170px
+    />
+    <img height=170px src="https://github-readme-stats.vercel.app/api/?username=Tschipcraft&show_icons=true&hide=contribs,prs&theme=transparent" alt="My GitHub statistics"/>
+  </picture> 
 </p>
 
 <p align="center">
-    <img align="center" height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tschipcraft&theme=midnight-purple" alt="stats"/>  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tschipcraft&theme=midnight-purple&layout=compact"
+      media="(prefers-color-scheme: dark)"
+      height=140px
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tschipcraft&theme=buefy&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      height=140px
+    />
+    <img height=140px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tschipcraft&theme=transparent&layout=compact" alt="Most Used Languages"/>
+  </picture> 
 </p>
 
 <!---
@@ -35,7 +59,7 @@ Here you'll find all the code and resources for my Minecraft data packs, resourc
 <img width="40px" alt="PlanetMinecraft logo" title="Follow me on PlanetMinecraft" src="https://www.planetminecraft.com/images/layout/favicon-128.png">
 </a>
 
-<a href="https://tschipcraft.ddns.net/en/dynamiclights.html">
+<a href="https://www.youtube.com/@tschipcraft">
 <img width="40px" title="Subscribe to me on YouTub" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg">
 </a>
 </p>
