@@ -69,7 +69,7 @@ Here you'll find all the code and resources for my Minecraft data packs, resourc
 
 <p align="center">
 <a href="https://ko-fi.com/tschipcraft">
-<img width="250px" title="Support me on Ko-fi to help me keep making epic stuff!" alt="Ko-fi button" src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_red.png">
+<img width="250px" height="40px" title="Support me on Ko-fi to help me keep making epic stuff!" alt="Ko-fi button" src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_red.png">
 </a>
 </p>
 
