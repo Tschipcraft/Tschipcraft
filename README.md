@@ -11,7 +11,7 @@ Here you'll find all the code and resources for my Minecraft data packs, resourc
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/?username=Tschipcraft&show_icons=true&hide=contribs,prs&theme=midnight-purple"
+      srcset="https://github-readme-stats.vercel.app/api/?username=Tschipcraft&show_icons=true&hide=contribs&theme=midnight-purple"
       media="(prefers-color-scheme: dark)"
       height=170px
     />
@@ -20,7 +20,7 @@ Here you'll find all the code and resources for my Minecraft data packs, resourc
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       height=170px
     />
-    <img height=170px src="https://github-readme-stats.vercel.app/api/?username=Tschipcraft&show_icons=true&hide=contribs,prs&theme=transparent" alt="My GitHub statistics"/>
+    <img height=170px src="https://github-readme-stats.vercel.app/api/?username=Tschipcraft&show_icons=true&hide=contribs&theme=transparent" alt="My GitHub statistics"/>
   </picture> 
 </p>
 
